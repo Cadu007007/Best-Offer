@@ -1,2 +1,2 @@
 # bestoffer
-commercial site
+commercial site made for personal purpose
